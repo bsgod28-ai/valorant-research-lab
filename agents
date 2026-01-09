@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Valorant Agents Guide</title>
+  <meta name="description" content="Beginner-friendly Valorant agent guides and tips.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Valorant Agents</h1>
+  <p>Learn how to play each Valorant agent effectively.</p>
+
+  <ul>
+    <li>Gekko</li>
+    <li>Jett</li>
+    <li>Brimstone</li>
+  </ul>
+
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
